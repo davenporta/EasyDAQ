@@ -1,0 +1,26 @@
+# Binaries and other...
+*.o
+*.elf
+*.bin
+.hex
+*log.*
+*.map
+
+# Eclipse things
+*metadata*
+*RemoteSystemsTempFiles*
+
+*.xml
+
+*.mk
+
+*.d
+
+*.pyc
+
+*.pdf
+
+data/
+build/
+*.zip
+*.exe

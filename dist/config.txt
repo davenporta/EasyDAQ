@@ -1,0 +1,34 @@
+Device	Alias	Slope	Offset
+pnum	8
+snum	8
+lnum	4
+lcnum	0
+fvlv0	Vent
+fvlv1	.
+fvlv2	.
+fvlv3	.
+fvlv4	.
+fvlv5	.
+fvlv6	.
+fvlv7	.
+fpressure0	Tank Top	1	0
+fpressure1	.	0	0
+fpressure2	.	0	0
+fpressure3	.	0	0
+fpressure4	.	0	0
+fpressure5	.	0	0
+fpressure6	.	0	0
+fpressure7	.	0	0
+mtr0	mtrvlv0
+mtr1	mtrvlv1
+STATE0	ERROR
+STATE1	MANUAL
+STATE2	ARMED
+STATE3	IGNITION
+STATE4	FIRING
+STATE5	FULL_DURATION
+STATE6	PRE_IGNITION
+STATE7	FULL_DURATION_SAFE
+STATE_N	8
+COM_PORT	COM4
+BAUDRATE	921600
